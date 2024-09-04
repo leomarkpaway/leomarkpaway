@@ -15,13 +15,13 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 |-----------------------------------------|-------------------------------------------------------------------------------------------------------|
 | **Languages & Markup** 💻            | Kotlin, Java, XML |
 | **Architecture** ⚒️                  | MVVM, Clean Architecture, MVC, MVP |
-| **UI/UX** 🎨                         | Jetpack Compose, Material Components for Android, ConstraintLayout |
+| **UI/UX** 🎨                         | Jetpack Compose, Material Components for Android, Constraint Layout |
 | **Dependency Injection** 💉          | Hilt, Dagger |
 | **Networking** 🌐                    | Retrofit, OkHttp, Ktor |
 | **Asynchronous/Synchronous & Reactive Programming** ⚙️ | Kotlin Coroutines, DataBinding, ViewModel, LiveData, Flow   |
 | **Image Loading & Caching** 🖼️       | Glide, Picasso |
 | **Database & JSON Parsing** 💾       | Room, Gson, Moshi, Kotlinx serialization |
-| **Navigation** 🧭                    | Navigation Component, FragmentManager   |
+| **Navigation** 🧭                    | Navigation Component, Fragment Manager   |
 | **Testing** 🧪                       | JUnit, Postman |
 | **Build Tools** 🛠️                   | Gradle    |
 | **Version Control** 🗂️               | Git, GitHub, GitLab 
