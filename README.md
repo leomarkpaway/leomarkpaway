@@ -32,7 +32,7 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 ### 🌱 What I’m Currently Working On
 - Building modern Android applications using Jetpack Compose.
 - Exploring advanced Kotlin features and best practices.
-- Exploring Figma UI/UX design principles
+- Exploring UI/UX design principles using Figma.
 
 ## 📫 Get in Touch
 - **Email**: leomarkpaway@gmail.com
