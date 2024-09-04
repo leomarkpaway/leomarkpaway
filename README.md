@@ -12,9 +12,9 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 ## 🔧 Skills & Technologies
 
 | Category                             | Skills & Technologies                                                                                 |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------|
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------|
 | **Languages & Markup** 💻            | Kotlin, Java, XML |
-| **Architecture** ⚒️                  | MVVM, Clean Architecture, MVC, MVP |
+| **Architecture** ⚒️                  | MVVM, Clean Architecture, MVI, MVP |
 | **UI/UX** 🎨                         | Jetpack Compose, Material Components for Android, Constraint Layout |
 | **Dependency Injection** 💉          | Hilt, Dagger |
 | **Networking** 🌐                    | Retrofit, OkHttp, Ktor |
