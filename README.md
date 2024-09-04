@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/leomarkpaway/template/blob/master/assets/banner.gif" alt="Banner" />
+  <img src="https://github.com/leomarkpaway/template/blob/main/assets/banner.gif" alt="Banner" />
 </p>
 <p align="center"> 
   Visitor count<br>
