@@ -101,7 +101,7 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 - Exploring UI/UX design principles using Figma.
 
 ### 🔭 I’m currently working on
-- [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) bit-by-bit migration architecture pattern and also adding features.
+- [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) Architectural Pattern & Jetpack Compose Migration, Including Feature Additions
 
 ### 📫 Get in Touch
 - **Email**: leomarkpaway@gmail.com
