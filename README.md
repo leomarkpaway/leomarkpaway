@@ -29,10 +29,13 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 
 ---
 
-### 🌱 What I’m Currently Working On
+### 🌱 I’m currently learning
 - Building modern Android applications using Jetpack Compose.
 - Exploring advanced Kotlin features and best practices.
 - Exploring UI/UX design principles using Figma.
+
+### 🔭 I’m currently working on
+- [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) bit-by-bit migration architecture pattern and also adding features.
 
 ## 📫 Get in Touch
 - **Email**: leomarkpaway@gmail.com
