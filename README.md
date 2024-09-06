@@ -7,28 +7,94 @@
 </p>
 
 ## 🚀 About Me
-Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of experience working with Kotlin. I graduated with a Bachelor's degree in Computer Science, which has provided me with a strong foundation in software development. Over the past two years, I've gained hands-on experience building and optimizing Android applications, focusing on developing scalable and maintainable applications. Using various architectural patterns such as MVVM and MVI, MVP as well as MVVM Clean Architecture to ensure robust and organized code. I'm eager to continue growing in this field and excited to tackle new challenges in mobile app development.
+Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of experience working with Kotlin. I graduated with a Bachelor's degree in Computer Science from [Mabini Colleges](https://mabinicolleges.edu.ph/), which has provided me with a strong foundation in software development. Over the past two years, I've gained hands-on experience building and optimizing Android applications, focusing on developing scalable and maintainable applications. Using various architectural patterns such as MVVM and MVI, MVP as well as MVVM Clean Architecture to ensure robust and organized code. I'm eager to continue growing in this field and excited to tackle new challenges in mobile app development.
 
 ## 🔧 Skills & Technologies
 
-| Category                             | Skills & Technologies                                                                                 |
-|-----------------------------------------|----------------------------------------------------------------------------------------------------|
-| **Languages & Markup** 💻            | Kotlin, Java, XML |
-| **Architecture** ⚒️                  | MVVM, Clean Architecture, MVI, MVP |
-| **UI/UX** 🎨                         | Jetpack Compose, Material Components for Android, Constraint Layout |
-| **Dependency Injection** 💉          | Hilt, Dagger |
-| **Networking** 🌐                    | Retrofit, OkHttp, Ktor |
-| **Asynchronous/Synchronous & Reactive Programming** ⚙️ | Kotlin Coroutines, DataBinding, ViewModel, LiveData, Flow   |
-| **Image Loading & Caching** 🖼️       | Glide, Picasso |
-| **Database & JSON Parsing** 💾       | Room, Gson, Moshi, Kotlinx serialization |
-| **Navigation** 🧭                    | Navigation Component, Fragment Manager   |
-| **Testing** 🧪                       | JUnit, Postman |
-| **Build Tools** 🛠️                   | Gradle    |
-| **Version Control** 🗂️               | Git, GitHub, GitLab 
-| **Other Libraries** 📦               | Firebase, ExoPlayer |
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg"/>
+<img align="left" alt="Jetpack Compose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+<img align="left" alt="Ktor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ktor/ktor-original.svg"/>
+<img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg"/>
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg"/>
+<br />
+<br />
 
----
+<details>
+  <summary>show more</summary>
 
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Skills & Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Languages & Markup</strong> 💻</td>
+        <td>Kotlin, Java, XML</td>
+      </tr>
+      <tr>
+        <td><strong>Architecture</strong> ⚒️</td>
+        <td>MVVM, Clean Architecture, MVI, MVP</td>
+      </tr>
+      <tr>
+        <td><strong>UI/UX</strong> 🎨</td>
+        <td>Jetpack Compose, Material Components for Android, Constraint Layout</td>
+      </tr>
+      <tr>
+        <td><strong>Dependency Injection</strong> 💉</td>
+        <td>Hilt, Dagger</td>
+      </tr>
+      <tr>
+        <td><strong>Networking</strong> 🌐</td>
+        <td>Retrofit, OkHttp, Ktor</td>
+      </tr>
+      <tr>
+        <td><strong>Asynchronous/Synchronous & Reactive Programming</strong> ⚙️</td>
+        <td>Kotlin Coroutines, DataBinding, ViewModel, LiveData, Flow</td>
+      </tr>
+      <tr>
+        <td><strong>Image Loading & Caching</strong> 🖼️</td>
+        <td>Glide, Picasso</td>
+      </tr>
+      <tr>
+        <td><strong>Database & JSON Parsing</strong> 💾</td>
+        <td>Room, Gson, Moshi, Kotlinx serialization</td>
+      </tr>
+      <tr>
+        <td><strong>Navigation</strong> 🧭</td>
+        <td>Navigation Component, Fragment Manager</td>
+      </tr>
+      <tr>
+        <td><strong>Testing</strong> 🧪</td>
+        <td>JUnit, Postman</td>
+      </tr>
+      <tr>
+        <td><strong>Build Tools</strong> 🛠️</td>
+        <td>Gradle</td>
+      </tr>
+      <tr>
+        <td><strong>Version Control</strong> 🗂️</td>
+        <td>Git, GitHub, GitLab</td>
+      </tr>
+      <tr>
+        <td><strong>Other Libraries</strong> 📦</td>
+        <td>Firebase, ExoPlayer</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
+
+#
 ### 🌱 I’m currently learning
 - Building modern Android applications using Jetpack Compose.
 - Exploring advanced Kotlin features and best practices.
@@ -37,9 +103,9 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 ### 🔭 I’m currently working on
 - [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) bit-by-bit migration architecture pattern and also adding features.
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 - **Email**: leomarkpaway@gmail.com
-- **LinkedIn**: [Leo Mark Paway](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Leo Mark Paway](https://linkedin.com/in/leomarkpaway)
 
 Feel free to explore my repositories and contribute to any projects that interest you!
 
