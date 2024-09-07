@@ -51,7 +51,7 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
       </tr>
       <tr>
         <td><strong>Dependency Injection</strong> 💉</td>
-        <td>Hilt, Dagger</td>
+        <td>Dagger Hilt</td>
       </tr>
       <tr>
         <td><strong>Networking</strong> 🌐</td>
@@ -75,7 +75,7 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
       </tr>
       <tr>
         <td><strong>Testing</strong> 🧪</td>
-        <td>JUnit, Postman</td>
+        <td>JUnit, Mockito, Postman</td>
       </tr>
       <tr>
         <td><strong>Build Tools</strong> 🛠️</td>
@@ -96,12 +96,13 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 
 #
 ### 🌱 I’m currently learning
-- Building modern Android applications using Jetpack Compose.
+- Delving into Jetpack Compose for modern Android development.
 - Exploring advanced Kotlin features and best practices.
-- Exploring UI/UX design principles using Figma.
+- Exploring UI/UX design principles with Figma.
 
 ### 🔭 I’m currently working on
-- [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) Architectural Pattern & Jetpack Compose Migration, Including Feature Additions
+- [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) Revamp UI design and create a prototype using Figma.
+- [Tactful Task](https://github.com/leomarkpaway/Tactful-Task) Architectural Pattern & Jetpack Compose Migration, Including Feature Additions.
 
 ### 📫 Get in Touch
 - **Email**: leomarkpaway@gmail.com
