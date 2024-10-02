@@ -109,7 +109,7 @@ Hi there 👋, I'm Leo Mark Paway, a Junior Android Developer with 2 years of ex
 - **LinkedIn**: [Leo Mark Paway](https://linkedin.com/in/leomarkpaway)
 
 Feel free to explore my repositories and contribute to any projects that interest you!
-
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -120,7 +120,7 @@ Feel free to explore my repositories and contribute to any projects that interes
 
 ---
 
-<!--
+
 **leomarkpaway/leomarkpaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
